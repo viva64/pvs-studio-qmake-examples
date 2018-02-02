@@ -4,8 +4,6 @@ For [PVS-Studio](https://www.viva64.com/en/pvs-studio/) analyzer integration int
 
 A few examples in this repository will help you learn how to use the QMake module in your project properly.
 
-A few examples in this repository will help you learn how to use the QMake module in your project properly.
-
 1. Connect the **.pri** module to your project;
 2. Add a new configuration, for example, "Analyze";
 3. In settings of the configuration "Build Steps" -> "Make arguments", add the name of the target (pvs_studio.target = **this_name**);
